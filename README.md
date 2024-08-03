@@ -1,4 +1,4 @@
 # README
-Pages d'informations pour la distribution:  
-  https://mate-companion.github.io/data/pages/MatePrivacyFR.html  
-  https://mate-companion.github.io/data/pages/MateSupportFR.html
+Available pages:  
+  https://julesgzel.github.io/medals-pages/Medals24PrivacyFR.html 
+  https://julesgzel.github.io/medals-pages/Medals24SupportFR.html
